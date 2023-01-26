@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/rafabvm/osticket-postinstall)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/rafabvm/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rafabvm/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rafabvm/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rafabvm/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
