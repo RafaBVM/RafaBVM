@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rafael, an aspiring <a href="https://linkedin.com/in/rafael-melendez-8aa55b17a/">IT Professional</a></h1>
+<h1>Hi, I'm Rafael, an aspiring <a href="https://www.linkedin.com/in/rafael-buenaventura-melendez/">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/rafael-melendez-8aa55b17a/
+[linkedin]: https://www.linkedin.com/in/rafael-buenaventura-melendez/
